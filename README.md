@@ -1,21 +1,21 @@
 # Task 1 - Vulnerability Assessment
 
-## 👩‍💻 Author
+##  Author
 Shreshta S S
 
-## 🎯 Objective
+## Objective
 To identify web vulnerabilities using security tools and classify risks.
 
-## 🛠 Tools Used
+## Tools Used
 - Nmap
 - OWASP ZAP
 - Browser DevTools
 
-## 🔍 Work Done
+##  Work Done
 - Identified vulnerabilities
 - Classified risks (Low/Medium/High)
 - Provided remediation steps
 
-## 📄 Report
+##  Report
 See attached PDF
 
